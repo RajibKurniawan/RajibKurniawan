@@ -14,24 +14,21 @@
 - 📫 Reach me at **<kurniawanrajib03@gmail.com>**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<div id="header" align="left">
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/rajibkurniawan/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://medium.com/@cleoths">
-      <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-    </a>
-    <a href="https://twitter.com/cleoths">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    <a href="https://www.instagram.com/rjbkrwn/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
-  </div>
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://www.linkedin.com/in/rajibkurniawan/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/>
+  </a>
+  <a href="https://medium.com/@cleoths" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width="32" height="32"/>
+  </a>
+  <a href="https://twitter.com/cleoths" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="32" height="32"/>
+  </a>
+  <a href="https://www.instagram.com/cleoths/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="32" height="32"/>
+  </a>
 </div>
-</p>
 
 <!--
 **tianbuyung/tianbuyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
