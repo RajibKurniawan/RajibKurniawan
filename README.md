@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/rajibkurniawan/">Rajib Kurniawan</a></h1>
 <h3 align="center">Aspiring Data Analyst from Indonesia</h3>
 
-- 🔭 I’m currently seeking opportunities as an **Aspiring Data Analyst**  
+- 🔭 I’m currently seeking opportunities as **Data Analyst**  
 
 - 🌱 I’m currently learning **Python, SQL, Data Visualization, Machine Learning, and End-to-End Analytics**  
 
