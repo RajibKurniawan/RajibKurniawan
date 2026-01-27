@@ -3,13 +3,13 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/rajibkurniawan/">Rajib Kurniawan</a></h1>
-<h3 align="center">A passionate Data Scientist from Indonesia</h3>
+<h3 align="center">Aspiring Data Analyst from Indonesia</h3>
 
-- 🔭 I’m currently seeking opportunities as a **Data Scientist or Data Analyst**  
+- 🔭 I’m currently seeking opportunities as an **Aspiring Data Analyst**  
 
-- 🌱 I’m currently learning **Python, SQL, Machine Learning, and End-to-End Deployment**  
+- 🌱 I’m currently learning **Python, SQL, Data Visualization, Machine Learning, and End-to-End Analytics**  
 
-- 💬 Ask me about **anything related to Big Data**  
+- 💬 Ask me about **Data Analysis, SQL, Python, and Business Insights**  
 
 - 📫 Reach me at **<kurniawanrajib03@gmail.com>**
 
@@ -29,18 +29,3 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="32" height="32"/>
   </a>
 </div>
-
-<!--
-**tianbuyung/tianbuyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
